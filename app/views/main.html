@@ -1,0 +1,7 @@
+<!--<div anim-on-scroll-dir data="bricks"></div>-->
+<!--<li ng-repeat="associate in associates | filter:associate.Rank:'GDIR' track by $index">[{{$index}}] {{associate.Cust_ID}}</li>-->
+<div class="grid effect-6" id="grid">
+  <li ng-repeat="associate in associates track by $index">
+    <img ng-src="http://www.usana.com/media/DistImage/{{associate.Cust_ID}}.jpg"/>
+  </li>
+</div>

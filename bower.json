@@ -1,0 +1,27 @@
+{
+  "name": "recognition",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "^1.3.0",
+    "bootstrap": "^3.2.0",
+    "angular-animate": "^1.3.0",
+    "angular-aria": "^1.3.0",
+    "angular-cookies": "^1.3.0",
+    "angular-messages": "^1.3.0",
+    "angular-resource": "^1.3.0",
+    "angular-sanitize": "^1.3.0",
+    "angular-touch": "^1.3.0",
+    "masonry": "~3.2.2",
+    "imagesloaded": "~3.1.8",
+    "classie": "~1.0.1",
+    "modernizr": "~2.8.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.3.0"
+  },
+  "appPath": "app",
+  "moduleName": "recognitionApp",
+  "resolutions": {
+    "angular": "1.3.14"
+  }
+}
